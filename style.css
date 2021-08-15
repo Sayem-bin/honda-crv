@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+
+#featured-bike img{
+    Width:288px;
+    Height :243px;
+}
+
+#bike1{
+    filter: grayscale(100%);
+}
+
+#bike2{
+    filter: grayscale(100%);
+}
